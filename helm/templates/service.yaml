@@ -9,5 +9,5 @@ spec:
     project: roboshop
   ports:
   - protocol: TCP
-    port: 5672 #service-port
-    targetPort: 5672 #container-port
+    port: 82 #service-port
+    targetPort: 82 #container-port
